@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://0xNaN.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 0xNaN
+subtitle: The mind is Not a Number
+author: NaN
 simple_search: http://google.com/search
-description:
+description: A personal blog. Notes, articles, projects and any stuff of development FOSS
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -54,8 +54,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
-# blog_index_asides:
-# post_asides:
+#blog_index_asides:
+#post_asides:
 # page_asides:
 
 # ----------------------- #
@@ -63,7 +63,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: 0xNaN
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
@@ -97,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
