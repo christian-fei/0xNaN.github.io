@@ -17,6 +17,6 @@ footer: true
 ###Hi! I'm Vincenzo di Cicco *aka* **NaN**  
 I am an italian student of Informatic Engineering at Third University of Rome.  
 I like to develop FOSS and keep me updated about this world.  
-My principal language is C/C++ but I know other technology like PHP, Java, and now I'm learning Python.
+My principal language is C/C++ but I know other technology such as PHP, Java, and now I'm learning Python.
 
 <div style="clear:both"/>
