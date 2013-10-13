@@ -1,0 +1,18 @@
+{% include head.html %}
+<body>
+
+  <div id="container">
+    <header align="center">
+         <img class="circle" src="http://www.gravatar.com/avatar/a466da6b8e4cf1f3c914ab94be8cdf98?s=100">
+    </header>
+    <div id="main" role="main">
+      {{ content | expand_urls: root_url }}
+    </div>
+    <footer>
+
+    </footer>
+  </div> <!--! end of #container -->
+
+  {% include bottom_scripts.html %}
+</body>
+</html>
